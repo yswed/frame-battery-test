@@ -1,0 +1,75 @@
+# macOS
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.eggs/
+
+# Virtual Environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+
+# MyPy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# Environments
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# PyCharm
+*.iml
+out/
+
+# Miscellaneous
+*.bak
+*.swp
+*~
+
+# Ignore file for file uploads in sandbox environments
+/mnt/data/
+
+# Folders
+*/
+
+

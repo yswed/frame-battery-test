@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ## How to Use
 
 1. **Collect Battery Data**
-   - Connect the Brilliantlabs Frame AR glasses to your computer.
+   - Place the Brilliantlabs Frame AR glasses close to your computer.
    - Run the `battery-test.py` script to begin collecting data.
    - Data will be saved to a log file for later use.
 
